@@ -1,3 +1,13 @@
+使用教程(需自行准备本地大模型):
+
+双击运行“启动AI后台.bat”
+
+双击运行“启动新前端.bat”
+
+<br><br>
+效果展示:
+
+
 ![image](https://img.notionusercontent.com/s3/prod-files-secure%2F1636aea5-71ac-44ff-be15-92f27a9b5d56%2F745a0ac5-51ef-4650-825a-2b0f944cb72d%2F%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE_2025-03-16_171900.png/size/?exp=1742203737&sig=ScrwjabHBMwUCDc5fXz0U-O_mZkAqSF8p3MaX4GvraE)
 
 目前仅仅适用于Windows版本
