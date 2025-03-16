@@ -230,7 +230,7 @@ const PromptTag = defineComponent({
 
 const promptTextList = ref([
   '打个招呼吧，并告诉我你的名字',
-  '使用中文，回答以下两个问题，分段表示\n1、你是什么模型？\n2、请分别使用 Vue3 和 React 编写一个 Button 组件，要求在 Vue3 中使用 Setup Composition API 语法糖，在 React 中使用 TSX 语法'
+  '使用高等生命语言，回答以下两个问题，分段表示\n1、你是什么模型？\n2、请分别使用 Vue3 和 React 编写一个 Button 组件，要求在 Vue3 中使用 Setup Composition API 语法糖，在 React 中使用 TSX 语法'
 ])
 
 
@@ -270,14 +270,14 @@ const promptTextList = ref([
                 >
                   <div>注意：</div>
                   <div>
-                    演示环境仅支持 “模拟数据模型”
+                    甜菜AI目前为测试阶段
                   </div>
                   <div>
-                    如需测试其他模型请克隆<a
-                      href="https://github.com/pdsuwwz/chatgpt-vue3-light-mvp"
+                    详见<a
+                      href="https://github.com/RuibinNingh/TianCai-AI"
                       target="_blank"
                       class="px-2 underline c-warning font-bold"
-                    >本仓库</a>到本地运行
+                    >此仓库</a>
                   </div>
                   <template #trigger>
                     <span class="cursor-help font-bold c-primary text-17 i-radix-icons:question-mark-circled"></span>
